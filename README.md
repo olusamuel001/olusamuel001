@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Olumide 👋
 
-<!--
-**olusamuel001/olusamuel001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend developer building fast, responsive, accessible
+websites with HTML, CSS, and vanilla JavaScript.
 
-Here are some ideas to get you started:
+### 🔧 Toolkit
+- HTML5, CSS3 (Flexbox, Grid, animations)
+- Vanilla JavaScript (DOM, fetch, ES modules)
+- Responsive design, accessibility (WCAG), performance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Selected work
+- [Market-Hub](https://market-hub-2-two.vercel.app/) — A responsive E-commerce website
+
+### 📫 Reach me
+- Email: olumidesamuel0012@gmail.com
